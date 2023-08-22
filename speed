@@ -12,6 +12,7 @@ void Game::gameOver()
 	cout << "G a m e   O v e r" << endl;
  
 	SetPos(3, 10);
+
 	cout << "0 退出   Enter 重新开始" << endl;
  
 	while (1)
